@@ -15,7 +15,7 @@ https://twitter-sentimental-analysis-4b69bad8061c.herokuapp.com/
 Clone the repository: git clone https://github.com/basantadharala/twitter-sentiment-analysis.git
 Navigate to the project directory: cd twitter-sentiment-analysis
 Install dependencies: pip install -r requirements.txt
-Run the application: python app.py 🛠️
+Run the application: streamlit app.py 🛠️
 ## Usage
 Access the web demo through the provided link. 🌐
 Enter a keyword or hashtag to search for relevant tweets. 🔍
@@ -24,7 +24,7 @@ Explore sentiment trends and insights provided by the application. 🧐
 
 ## Contributors
 Basanta Dharala 🙌
-Feedback and Contributions
+## Feedback and Contributions
 Feedback and contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository. 📝
 
 ## License
