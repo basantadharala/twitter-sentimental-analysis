@@ -1,6 +1,9 @@
 # Description
 Twitter Sentiment Analysis by Basanta Dharala is a tool designed to analyze the sentiment of tweets on Twitter. 📊 This project utilizes Natural Language Processing (NLP) techniques to classify the sentiment of tweets as positive, negative, or neutral. 🧠 The analysis helps users gain insights into public opinion, trends, and sentiments expressed on the Twitter platform.
 
+## Dataset
+Datset is taken from kaggle with 1.6Million tweets
+https://www.kaggle.com/datasets/kazanova/sentiment140
 ## Features
 Sentiment Analysis: Analyzes the sentiment of tweets. 📉
 Real-time Analysis: Provides real-time analysis of tweets as they are posted. 🕒
